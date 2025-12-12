@@ -1,4 +1,4 @@
-# **PortSwigger – Unprotected Admin Functionality (IDOR / BAC)**
+# **PortSwigger – Unprotected admin functionality**
 
 ---
 
