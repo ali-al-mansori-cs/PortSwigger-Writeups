@@ -1,4 +1,4 @@
-# PortSwigger: Unprotected Admin Functionality (Unpredictable URL)**
+# PortSwigger: Unprotected admin functionality with unpredictable URL**
 
 ## 🔹 Lab Information
 
