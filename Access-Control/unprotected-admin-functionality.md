@@ -69,7 +69,6 @@ This vulnerability is **Critical** because an attacker can:
 - Take full control of the application
     
 
-In real scenarios, this could lead to full compromise and data leaks
     
 
 ---
@@ -111,10 +110,11 @@ To detect unauthorized access attempts.
 ## 🔹 **Evidence**
 
 - `robots.txt` reveals the admin panel
-    
+          ` Put here image`    
 - Direct access to the admin page without login
-    
+            ` Put here image`  
 - Deleting user “carlos” from admin panel
+              ` Put here image` 
     
 
 ---
