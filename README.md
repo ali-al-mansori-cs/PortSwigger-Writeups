@@ -24,12 +24,7 @@ I created it specifically to **help beginners learn how to write professional cy
 
 📂 **Folder Contents**  
 This directory contains multiple reports organized by vulnerability type, such as:  
-- Broken Access Control  
-- IDOR  
-- Privilege Escalation  
-- Insecure Direct Object References  
-- Method / URL / Referer-based Access Control Bypass  
-Covering both Apprentice and Practitioner levels.
+- Broken Access Control 
 
 ✨ **Professional Formatting**  
 Each report is crafted to be:  
