@@ -3,15 +3,11 @@
 ## 🔹 Lab Information
 
 - **Lab Name:** Unprotected admin functionality with unpredictable URL
-    
 - **Level:** 2
-    
 - **Vulnerability Type:**
     
-    - Broken Access Control
-        
-    - Unprotected Admin Panel
-        
+    - Broken Access Control  
+    - Unprotected Admin Panel 
     - Information Disclosure (sensitive admin path leaked in JavaScript)
         
 
