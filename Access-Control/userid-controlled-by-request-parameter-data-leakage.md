@@ -1,4 +1,4 @@
-# PortSwigger: Unprotected admin functionality with unpredictable URL**
+# PortSwigger: Unprotected admin functionality with unpredictable URL
 
 ## 🔹 Lab Information
 
@@ -26,7 +26,7 @@ This makes the admin panel accessible to anyone who discovers the hidden path, a
 
 ---
 
-## 🔹 Exploitation Steps
+## 🔹 Step-by-Step Exploitation
 
 ### **1) Inspecting the Home Page Source**
 
@@ -62,7 +62,7 @@ The user account was removed successfully.
 
 ---
 
-## 🔹 Security Impact
+## 🔹 Impact
 
 This vulnerability is **critical** because it allows any attacker to:
 
@@ -73,9 +73,7 @@ This vulnerability is **critical** because it allows any attacker to:
 - Access sensitive data
     
 - Take full control of the application
-    
-
-In a real-world environment, this would likely lead to **complete site compromise**.
+  
 
 ---
 
@@ -92,7 +90,7 @@ In a real-world environment, this would likely lead to **complete site compromis
 
 ---
 
-## 🔹 How to Fix
+## 🔹 Fix Recommendations
 
 ✔ Implement strict **server-side authorization** on all admin endpoints  
 ✔ Do **not** expose sensitive URLs in JavaScript or client-side code  
@@ -105,15 +103,18 @@ In a real-world environment, this would likely lead to **complete site compromis
 ## 🔹 Evidence
 
 - Admin URL found in JavaScript source
+              `Put here image`
     
 - Admin panel accessible without authentication
+               `Put here image`
     
 - Successful deletion of user **carlos**
+               `Put here image`
     
 
 ---
 
-# 🔚 **Conclusion**
+# Conclusion
 
 The core issue is exposing a hidden but **unprotected** admin panel.  
 Even though the URL was unpredictable, leaking it through JavaScript made it discoverable and accessible, enabling full administrative actions without any authorization
