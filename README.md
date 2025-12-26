@@ -1,42 +1,45 @@
-# 🛡️ PortSwigger Write-Ups  
-## Documenting My Cybersecurity Learning Journey
+# PortSwigger Web Security Academy – Writeups
 
-Welcome to this directory!  
-Here I collect **all my PortSwigger lab write-ups**, including:
+This repository contains my personal security writeups for
+PortSwigger Web Security Academy labs.
 
-- Step-by-step exploitation walkthroughs  
-- Clear technical analysis  
-- Explanation of root causes  
-- Security impact assessment  
-- Professional remediation recommendations  
-- Clean, beginner‑friendly documentation  
+Each lab is documented in:
+- 🇬🇧 English
+- 🇸🇦 Arabic
 
-🎯 **Purpose of this repository**  
-This repository documents my journey in **cybersecurity** and aims to share knowledge with the community.  
-I created it specifically to **help beginners learn how to write professional cybersecurity reports (write-ups)** in a clear and practical format.
-
-📘 **Why publish these write-ups?**  
-- To improve my reporting skills  
-- To build a strong cybersecurity portfolio  
-- To share knowledge with new learners  
-- To teach beginners how to write clean, structured, and professional reports  
-- To practice real-world vulnerability analysis  
-
-📂 **Folder Contents**  
-This directory contains multiple reports organized by vulnerability type, such as:  
-- Broken Access Control 
-
-✨ **Professional Formatting**  
-Each report is crafted to be:  
-- Simple  
-- Clear  
-- Well‑structured  
-- Easy for beginners to learn from  
-
-🧭 **Note**  
-This directory will be regularly updated as I progress through more labs.
+The focus of these writeups is not only solving the lab,
+but understanding the vulnerability from an attacker’s mindset:
+- Why the vulnerability exists
+- How it can be exploited
+- What impact it has
+- How it should be properly fixed
 
 ---
 
-## 🧩 Suggestions or improvements?  
-Feel free to open a Pull Request or submit an Issue ❤️
+## 📂 Covered Topics
+- Broken Access Control (OWASP Top 10 – A01:2025)
+- SQL Injection
+- Cross-Site Scripting (XSS)
+- Authentication & Authorization
+- Business Logic Vulnerabilities
+
+---
+
+## 🎯 Goals
+- Improve exploitation methodology
+- Develop security thinking
+- Practice clear and professional documentation
+- Build a public learning portfolio
+
+---
+
+## ⚠️ Disclaimer
+All labs are intentionally vulnerable and provided by
+PortSwigger Web Security Academy.
+This content is for **educational purposes only**.
+
+---
+
+## 👤 Author
+Ghassan Al-Mansouri  
+Cybersecurity | Web Security | Pentesting
