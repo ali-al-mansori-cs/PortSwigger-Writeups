@@ -86,7 +86,7 @@ This vulnerability is **critical** because it allows any attacker to:
 
 ---
 
-## 🔹 Fix Recommendations
+## 🔹 How to Fix
 
 ✔ Implement strict **server-side authorization** on all admin endpoints  
 ✔ Do **not** expose sensitive URLs in JavaScript or client-side code  
