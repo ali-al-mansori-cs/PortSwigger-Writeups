@@ -1,4 +1,4 @@
-#  PortSwigger: User Role Controlled by Request Parameter**
+#  PortSwigger: User Role Controlled by Request Parameter
 
 ## 🔹 Lab Information
 
