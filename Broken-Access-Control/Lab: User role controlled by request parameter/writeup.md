@@ -32,7 +32,7 @@ This is a critical security flaw because it allows attackers to escalate their p
 
 ---
 
-## 🔹 Exploitation Steps
+## 🔹 Step-by-Step Exploitation
 
 ### **1) Attempt to Access the Admin Panel**
 
@@ -88,7 +88,7 @@ Clicked **Delete**, and the account was removed.
 
 ---
 
-## 🔹 Security Impact
+## 🔹 Impact
 
 This vulnerability is **critical**, allowing any standard user to become an admin by altering a cookie.
 
