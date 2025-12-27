@@ -84,7 +84,7 @@ This vulnerability is **Critical** because an attacker can:
 
 ---
 
-## 🔹 **Fix Recommendations**
+## 🔹 **How to Fix**
 
 ✔ **Implement authorization checks**  
 The server must verify:
